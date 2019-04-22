@@ -54,7 +54,7 @@
         <seg-source xml:lang="en-US">
           <mrk mtype="seg" mid="0000023">Let's call it createNewApple().</mrk>
         </seg-source>
-        <target xml:lang="es-ES">Назовем его createNewApple(). <mrk mtype="seg" mid="0000023"/>
+        <target xml:lang="es-ES">Назовем его createNewApple().  <mrk mtype="seg" mid="0000023"/>
         </target>
       </trans-unit>
       <trans-unit id="0000026" reformat="no">
@@ -196,6 +196,7 @@
       </trans-unit>
       <trans-unit id="0000082" reformat="no">
         <source xml:lang="en-US">Convert an object to JSON</source>
+        <target>Конвертировать объект в JSON</target>
         <seg-source xml:lang="en-US">
           <mrk mtype="seg" mid="0000082">Convert an object to JSON</mrk>
         </seg-source>
