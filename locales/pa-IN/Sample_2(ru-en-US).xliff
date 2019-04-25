@@ -7,13 +7,13 @@
     <body>
       <trans-unit id="255">
         <source xml:space="preserve">Страница "Курс"</source>
-        <target xml:space="preserve">Page "CoursY"</target>
+        <target xml:space="preserve">Page "course"</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.html</context>
           <context context-type="linenumber">3</context>
         </context-group>
         <note priority="1" from="description">Title for the under construction card</note>
-    <note priority="1" from="meaning">Card Header</note>
+        <note priority="1" from="meaning">Card Header</note>
       </trans-unit>
       <trans-unit id="256">
         <source xml:space="preserve">На данной странице находится вся информация по курсу в целом.</source>
