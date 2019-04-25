@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file datatype="plaintext" date="2019-04-23T06:15:06.475581Z" original="e974a7d09abe9d6a9e85100c_1033" source-language="ru" target-language="pa-IN">
+    <header>
+      <tool tool-name="Smartcat.ai" tool-id="40c7d5b2-da26-4b36-84f1-8305b3aadb03" tool-version="3.4.110.0"/>
+    </header>
+    <body>
+      <trans-unit id="255">
+        <source xml:space="preserve">Страница "Курс"</source>
+        <target xml:space="preserve">Page "Course"</target>
+      </trans-unit>
+      <trans-unit id="256">
+        <source xml:space="preserve">На данной странице находится вся информация по курсу в целом.</source>
+        <target xml:space="preserve">This page contain</target>
+      </trans-unit>
+      <trans-unit id="257">
+        <source xml:space="preserve">С этой страницы можно попасть на любой из представленных в проекте курсов.</source>
+        <target xml:space="preserve">You can get any</target>
+      </trans-unit>
+      <trans-unit id="258">
+        <source xml:space="preserve">Курс</source>
+        <target xml:space="preserve">Course</target>
+      </trans-unit>
+      <trans-unit id="259">
+        <source xml:space="preserve">Вкладка "Карта квестов"</source>
+        <target xml:space="preserve">Quest map</target>
+      </trans-unit>
+      <trans-unit id="260">
+        <source xml:space="preserve">Карта квестов</source>
+        <target xml:space="preserve">Quest map</target>
+      </trans-unit>
+      <trans-unit id="261">
+        <source xml:space="preserve">Курс Java</source>
+        <target xml:space="preserve">Java Course</target>
+      </trans-unit>
+      <trans-unit id="262">
+        <source xml:space="preserve">Кнопка</source>
+        <target xml:space="preserve">Button</target>
+      </trans-unit>
+      <trans-unit id="263">
+        <source xml:space="preserve">Название вкладки</source>
+        <target xml:space="preserve">pagename</target>
+      </trans-unit>
+      <trans-unit id="264">
+        <source xml:space="preserve">Заголовок страницы</source>
+        <target xml:space="preserve">Header</target>
+      </trans-unit>
+      <trans-unit id="265">
+        <source xml:space="preserve">Название кнопки при нажатии на которую появляется вся информация по курсу (карточки с описанием как уже запущенных квестов, так и тех, которые находятся в разработке.</source>
+      </trans-unit>
+      <trans-unit id="266">
+        <source xml:space="preserve">Дерево технологий.</source>
+        <target xml:space="preserve">Tree</target>
+      </trans-unit>
+      <trans-unit id="267">
+        <source xml:space="preserve">Страница на которой представлены карточки с описанием всех квестов курса.</source>
+      </trans-unit>
+      <trans-unit id="268">
+        <source xml:space="preserve">Заголовок страницы.</source>
+        <target xml:space="preserve">Header.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
+
