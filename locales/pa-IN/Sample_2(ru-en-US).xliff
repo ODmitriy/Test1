@@ -16,6 +16,7 @@
         <note priority="1" from="meaning">Card Header</note>
       </trans-unit>
       <trans-unit id="256">
+        #, comment
         <source xml:space="preserve">На данной странице находится вся информация по курсу в целом.</source>
         <target xml:space="preserve">This page contain</target>
       </trans-unit>
