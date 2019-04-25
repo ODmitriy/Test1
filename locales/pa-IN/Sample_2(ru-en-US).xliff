@@ -13,7 +13,7 @@
           <context context-type="linenumber">3</context>
         </context-group>
         <note priority="1" from="description">Title for the under construction card</note>
-    <note priority="1" from="meaning">Card Header</note
+    <note priority="1" from="meaning">Card Header</note>
       </trans-unit>
       <trans-unit id="256">
         <source xml:space="preserve">На данной странице находится вся информация по курсу в целом.</source>
