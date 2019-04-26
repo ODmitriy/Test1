@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file datatype="plaintext" date="2019-04-23T06:15:06.475581Z" original="e974a7d09abe9d6a9e85100c_1033" source-language="ru" target-language="pa-IN">
-
-
-    <body>
-  <trans-unit id="constructionHeader" datatype="html">
-    <source>Under Construction!</source>
-    <context-group purpose="location">
-      <context context-type="sourcefile">app/app.component.html</context>
-      <context context-type="linenumber">3</context>
-    </context-group>
-    <note priority="1" from="description">Title for the under construction card</note>
-    <note priority="1" from="meaning">Card Header</note>
-  </trans-unit>
-  <trans-unit id="constructionDescription" datatype="html">
-    <source>This page is under construction.</source>
-    <context-group purpose="location">
-      <context context-type="sourcefile">app/app.component.html</context>
-      <context context-type="linenumber">4</context>
-    </context-group>
-    <note priority="1" from="description">A description for the under construction card.</note>
-    <note priority="1" from="meaning">Card Descritpion</note>
-  </trans-unit>
-</body>
+    <header>
+      <tool tool-name="Smartcat.ai" tool-id="40c7d5b2-da26-4b36-84f1-8305b3aadb03" tool-version="3.4.110.0"/>
+    </header>
+        <body>
+      <trans-unit id="48a16ab522feaff81571155668deb1a4304291f4" datatype="html">
+        <source>Under Construction!</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="84c778d7a95cb5dc26c9cc9feb5b7abb4d295792" datatype="html">
+        <source>This page is under construction.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+    </body>
   </file>
 </xliff>
 
