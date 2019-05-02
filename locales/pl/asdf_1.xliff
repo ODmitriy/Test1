@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Account/Info.plist" source-language="en" datatype="plaintext" target-language="pl">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3" build-num="8E3004b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target>$(NAZVISKO)</target>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>16.0</source>
+        <target>16.0</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="AccountTests/Info.plist" source-language="en" datatype="plaintext" target-language="pl">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3" build-num="8E3004b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target>$(NAZVISKO)</target>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>16.0</source>
+        <target>16.0</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="XCUITests/Info.plist" source-language="en" datatype="plaintext" target-language="pl">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3" build-num="8E3004b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>Course</source>
+        <target>Kurse</target>
+        <note>Button | Sidebar</note>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>COURSE</source>
+        <target>KURSE</target>
+        <note>HEADER</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
+
