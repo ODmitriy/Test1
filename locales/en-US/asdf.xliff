@@ -42,7 +42,7 @@
       </trans-unit>
       <trans-unit id="CFBundleShortVersionString">
         <source>16.0</source>
-        <target>16.0</target>
+        <target>1000000000</target>
       </trans-unit>
     </body>
   </file>
