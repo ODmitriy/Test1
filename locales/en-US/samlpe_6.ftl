@@ -1,4 +1,4 @@
-#content
+# content
 siteFeedback = Feedback
 importingFile = Importing…
 encryptingFile = Encrypting…
@@ -73,4 +73,3 @@ tooManyArchives = { $count ->
      [one] Only 1 archive is allowed.
     *[other] Only { $count } archives are allowed.
 }
-
