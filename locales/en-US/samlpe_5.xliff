@@ -32,11 +32,8 @@
 				<note priority="1" from="description">Заголовок страницы. Множественное число</note>
 				<note priority="1" from="meaning">Данный заголовок отображается при выборе пользователем списка задач (например пункта Мои задачи, Все задачи или Нерешенные задачи)</note>
             </trans-unit>
+		<trans-unit id="657" approved="no">
                 <source xml:space="preserve">Задача</source>
-                <target state="needs-translation" xml:space="preserve"></target>
-            </trans-unit>
-            <trans-unit id="657" approved="no">
-                <source xml:space="preserve">Заголовок страницы.</source>
                 <target state="needs-translation" xml:space="preserve"></target>
 				<note priority="1" from="description">Заголовок страницы. Единственное число</note>
 				<note priority="1" from="meaning">Данный заголовок отображается при выборе пользователем конкретной задачи</note>
