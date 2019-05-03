@@ -67,6 +67,7 @@
                 <target state="needs-translation" xml:space="preserve"></target>
 				<note priority="1" from="description">Статус задачи</note>
 				<note priority="1" from="meaning">По истечению трех дней после получения статуса «решена», задача получает статус «закрыта» и пользователь не может больше отправлять её на проверку.</note>
+	    </trans-unit>    
             <trans-unit id="678" approved="no">
                 <source xml:space="preserve">Мои задачи</source>
                 <target state="needs-translation" xml:space="preserve"></target>
