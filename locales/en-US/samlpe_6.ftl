@@ -8,8 +8,7 @@ downloadCount = { $num ->
        *[other] { $num } Задачи
     }
 timespanHours = { $num ->
-        [один] 1 час
-        [два, три, четыре]
+        [one] 1 hour
        *[other] { $num } hours
     }
 copiedUrl = Copied!
